@@ -1,3 +1,8 @@
+This plugin is *deprecated*. Please use this fork: https://github.com/kkleokrish/admob-google-cordova-clean
+===========
+
+
+
 This is a fork of the plugin by AppFeel that doesn't take 2% of your impressions.
 
 Cordova AdMob plugin
